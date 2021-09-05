@@ -27,10 +27,6 @@ public class TempConvert {
 			System.out.println("error... maybe you need to capitalize!");
 		}
 
-
-
-
-
 		/*
 		Step 1. get User input
 		Step 2. Calculate something
